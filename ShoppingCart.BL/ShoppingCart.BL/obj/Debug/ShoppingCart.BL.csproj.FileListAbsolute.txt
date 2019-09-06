@@ -1,0 +1,6 @@
+C:\Users\Clemark\source\repos\ShoppingCart.BL\ShoppingCart.BL\obj\Debug\ShoppingCart.BL.csprojAssemblyReference.cache
+C:\Users\Clemark\source\repos\ShoppingCart.BL\ShoppingCart.BL\obj\Debug\ShoppingCart.BL.csproj.CoreCompileInputs.cache
+C:\Users\Clemark\source\repos\ShoppingCart.BL\ShoppingCart.BL\bin\Debug\ShoppingCart.BL.dll
+C:\Users\Clemark\source\repos\ShoppingCart.BL\ShoppingCart.BL\bin\Debug\ShoppingCart.BL.pdb
+C:\Users\Clemark\source\repos\ShoppingCart.BL\ShoppingCart.BL\obj\Debug\ShoppingCart.BL.dll
+C:\Users\Clemark\source\repos\ShoppingCart.BL\ShoppingCart.BL\obj\Debug\ShoppingCart.BL.pdb
